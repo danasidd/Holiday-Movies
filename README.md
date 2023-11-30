@@ -2,6 +2,8 @@
 
 Welcome to **Holiday Movies** - your go-to destination for festive film recommendations and beyond! 🌟 Explore the magic of Christmas movies or discover year-round favorites with our user-friendly search feature. 🎥✨
 
+Check out the deployed website: https://holiday-movies.vercel.app/
+
 ## Features 🚀
 
 - **Festive Vibes:** Immerse yourself in the holiday spirit with a curated collection of Christmas movies.
